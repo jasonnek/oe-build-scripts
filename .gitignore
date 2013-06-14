@@ -4,5 +4,5 @@ sstate-cache/
 tmp-eglibc/
 conf/sanity_info
 build.log
-meta-measured
+meta-selinux
 cache
