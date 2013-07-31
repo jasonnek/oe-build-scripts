@@ -4,3 +4,6 @@
 [submodule "oe-core"]
 	path = oe-core
 	url = git://github.com/openembedded/oe-core.git
+[submodule "meta-intel"]
+	path = meta-intel
+	url = git://git.yoctoproject.org/meta-intel
