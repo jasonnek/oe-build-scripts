@@ -1,2 +1,3 @@
 git://github.com/flihp/meta-hype.git ndvm
 git://github.com/flihp/meta-measured.git
+git://github.com/flihp/meta-virtualization.git ndvm
