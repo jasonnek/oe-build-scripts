@@ -1,2 +1,3 @@
 git://github.com/flihp/meta-measured.git
+git://github.com/openembedded/bitbake.git
 git://github.com/openembedded/oe-core.git
