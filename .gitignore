@@ -11,3 +11,4 @@ cache
 oe-core
 downloads
 bitbake
+meta-virtualization
