@@ -1,4 +1,5 @@
 git://github.com/openembedded/bitbake.git
 git://github.com/openembedded/oe-core.git
+git://github.com/openembedded/meta-oe.git
 git://github.com/flihp/meta-virtualization.git
 git://git.yoctoproject.org/meta-intel
