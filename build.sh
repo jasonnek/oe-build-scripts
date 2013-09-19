@@ -1,4 +1,4 @@
 #!/bin/sh
     
 . ./environment.sh
-bitbake core-image-selinux-minimal
+bitbake core-image-selinux
