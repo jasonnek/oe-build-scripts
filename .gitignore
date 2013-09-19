@@ -6,3 +6,6 @@ conf/sanity_info
 build.log
 meta-selinux
 cache
+oe-core
+downloads
+bitbake
