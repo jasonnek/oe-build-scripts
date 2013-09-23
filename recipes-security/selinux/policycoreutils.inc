@@ -62,6 +62,7 @@ PAMH="`ls ${STAGING_INCDIR}/security/pam_appl.h >/dev/null 2>&1 && echo /usr/inc
 EXTRA_OEMAKE += "${@target_selinux(d, 'PAMH=${PAMH} AUDITH=${AUDITH}', 'PAMH= AUDITH= ')} INOTIFYH=n"
 EXTRA_OEMAKE += "PREFIX=${D}"
 EXTRA_OEMAKE += "INITDIR=${D}/etc/init.d"
+BUILD_LDFLAGS += "${@base_contains('DISTRO_FEATURES', 'pam', base_contains('DISTRO_FEATURES', 'libc-crypt', '-lcrypt', '', d), '', d)}"
 
 BBCLASSEXTEND = "native"
 
