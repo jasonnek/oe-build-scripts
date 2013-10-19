@@ -1,4 +1,4 @@
 #!/bin/sh
     
 . ./environment.sh
-bitbake xen-image-minimal
+bitbake integral-image-dom0
