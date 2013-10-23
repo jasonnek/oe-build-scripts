@@ -12,3 +12,5 @@ cache
 oe-core
 downloads
 bitbake
+meta-oe
+meta-integral
