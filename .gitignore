@@ -9,3 +9,6 @@ meta-intel
 meta-measured
 meta-virtualization
 cache
+oe-core
+downloads
+bitbake
