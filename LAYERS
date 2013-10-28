@@ -2,3 +2,4 @@ git://github.com/openembedded/bitbake.git
 git://github.com/openembedded/oe-core.git
 git://github.com/flihp/meta-virtualization.git
 git://github.com/flihp/meta-integral.git
+git://github.com/flihp/meta-selinux.git

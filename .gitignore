@@ -14,3 +14,4 @@ downloads
 bitbake
 meta-oe
 meta-integral
+meta-selinux
