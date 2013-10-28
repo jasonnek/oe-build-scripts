@@ -4,9 +4,7 @@ sstate-cache/
 tmp-eglibc/
 conf/sanity_info
 build.log
-meta-hype
 meta-intel
-meta-measured
 meta-virtualization
 cache
 oe-core
